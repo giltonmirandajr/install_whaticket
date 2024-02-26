@@ -1,4 +1,4 @@
-# Install S.I. Whaticket SaaS
+INSTALADOR
 
 ```bash
 sudo apt -y update && apt -y upgrade
